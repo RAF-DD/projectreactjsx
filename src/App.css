@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+
+.client{
+ 
+border:solid 3px Black;
+max-width: 800px;
+text-align: center;
+margin: auto;
+
+}
+img{
+width: 620px;
+height: 413px;
+
+}
+video{
+width: 620px;
+height: 413px;
+}
